@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jens Bauer
 - 👀 I’m interested in Numerical Modelling, AI and Climate Tech
-- 🌱 I’m currently learning C, GIS, Fortran
+- 🌱 I’m currently learning C, GIS, Julia
 
 <!---
 Je-Ba/Je-Ba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
